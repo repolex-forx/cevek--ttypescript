@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cevek/ttypescript/commit/0c36bbfd76f134dd7275e8d0f86458fbf94bf370",
       "git:hexsha": "0c36bbfd76f134dd7275e8d0f86458fbf94bf370",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:06:04.942492+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cevek/ttypescript/commit/1db6195f36b782fa6126db62c663b01e68a084a1",
